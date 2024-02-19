@@ -11,8 +11,11 @@ public class Main {
         System.out.println("To everlasting");
 
         System.out.println("Let all the Romans say amen");
+        System.out.println("AMEN!");
         System.out.println("Let all the Galatians say amen");
+        System.out.println("AMEN!");
         System.out.println("Let all the Corinthians say amen");
+        System.out.println("AMEN!");
         System.out.println("Praise the Lord!");
     }
 }
